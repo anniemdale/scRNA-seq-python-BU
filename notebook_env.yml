@@ -1,0 +1,14 @@
+name: scanpy_scrnaseq_final
+channels:
+- conda-forge
+- bioconda
+
+dependencies:
+- ipykernel=6.29.5
+- scanpy=1.11.1
+- celltypist=1.6.3
+- scikit-image=0.25.2
+- pandas=2.2.3
+- seaborn=0.13.2
+- matplotlib=3.10.1
+- numpy=2.2.5
